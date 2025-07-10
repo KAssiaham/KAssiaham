@@ -1,6 +1,4 @@
-## Hi there👋, I'm Assiaham Gnama-Lada
-
--- <h1>Hi there👋, I'm Assiaham</h1>
+<h1>Hi there👋, I'm Assiaham</h1>
 <p>Tech & Business Professional | Data-Driven Problem Solver| Tech Enthusiast</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
