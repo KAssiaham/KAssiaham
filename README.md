@@ -1,6 +1,19 @@
 <h1>
   <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
   Hi there, I'm Assiaham
+  
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 </h1>
 <p><strong>B.A. in Computer Science & B.A. in Business Administration</strong></p>
 <p><strong>Tech & Business Professional | Data-Driven Problem Solver | Tech Enthusiast</strong></p>
@@ -54,18 +67,6 @@
   </a>
 </p>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <!--
 **KAssiaham/KAssiaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
