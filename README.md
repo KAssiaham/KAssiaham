@@ -21,8 +21,8 @@
   <!-- Tableau -->
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="42" height="42"/>
   
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="42" height="42"/>
+  <!-- Power BI 
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="42" height="42"/> -->
 
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
