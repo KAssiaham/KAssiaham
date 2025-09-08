@@ -5,7 +5,7 @@
  <!--With 12 years of experience in banking as a Trade Finance Specialist, I've transitioned into tech with a passion for using data and technology to uncover insights and support smarter decision-making -->
 <p>Former Trade Finance Specialist turned tech professional with a dual degree in Computer Science and Business Administration. <br> 
    Passionate about leveraging data and technology to solve real-world problems.<br>
-   Skilled in SQL, Python, Tableau, Power BI, Excel, and Java.</p>
+   Skilled in SQL, Python, Tableau, Excel, and Java.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
