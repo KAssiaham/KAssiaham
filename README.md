@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I'm Assiaham</h1>
 <p><strong>Dual B.A. in Computer Science & Business Administration</strong></p>
-<p><strong>Tech & Business Professional | Data-Driven Problem Solver | Tech Enthusiast</strong></p>
+<p><strong>Tech & Business Professional | Data-Driven Problem Solver ></p>
 
  <!--With 12 years of experience in banking as a Trade Finance Specialist, I've transitioned into tech with a passion for using data and technology to uncover insights and support smarter decision-making -->
 <p>Former Trade Finance Specialist turned tech professional with a dual degree in Computer Science and Business Administration. <br> 
